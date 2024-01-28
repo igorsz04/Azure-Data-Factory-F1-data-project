@@ -1,0 +1,9 @@
+{
+	"name": "databricks-formula-adf",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "93ac7810-17d3-46cd-b088-bc01a5ea20c5",
+		"tenantId": "15513618-a169-4448-bd4b-7f4fb1d24ec7"
+	}
+}
